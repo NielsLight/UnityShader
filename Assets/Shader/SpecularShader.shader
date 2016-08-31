@@ -129,7 +129,8 @@
 						specColor = _LightColor0.rgb*_SpecColor.rgb*atten*pow(max(0, dot(reflect(-light_dir, normal_dir), view_dir)), _Shininess);
 					}
 					//merge the three color
-					float3 color = ambientColor + diffuseColor + specColor;
+					//no ambient color in this pass
+					float3 color =  diffuseColor + specColor;
 					OUT.col = float4(color, 1.0);
 					return OUT;
 				}
