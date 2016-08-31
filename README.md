@@ -6,3 +6,4 @@ CG Programing in Unity
 # 添加BetterCutaway Shader #
 # 添加ShaderingInWorldSpace Shader #
 # 完成Diffuse Shader #
+# 完成Specular Shader #
