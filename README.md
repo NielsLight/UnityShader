@@ -13,3 +13,7 @@ CG Programing in Unity
 the alpha test shader is wrong . I will check it and push later.
 
 ###  I complete the texture with alpha blending shader ###
+### multitexturing shader ###
+	 模拟一天中太阳的变化，不同的地方在每一个时刻的贴图不同，具体表现
+	 为两种贴图的插值（用平行光模拟）
+	 
