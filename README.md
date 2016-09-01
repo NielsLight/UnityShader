@@ -9,3 +9,4 @@ CG Programing in Unity
 ### 完成Specular Shader ###
 ### 光滑材质 PhongShading ###
 ### 简单的对纹理贴图进行采样 ###
+### 有关于纹理贴图Discard###
