@@ -10,3 +10,4 @@ CG Programing in Unity
 ### 光滑材质 PhongShading ###
 ### 简单的对纹理贴图进行采样 ###
 ### 有关于纹理贴图Discard###
+the alpha test shader is wrong . I will check it and push later.
